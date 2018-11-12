@@ -1,0 +1,2 @@
+[02-Nov-2018 18:38:54 UTC] PHP Parse error:  syntax error, unexpected 'print_r' (T_STRING) in /home/preet201290/public_html/wordpress/apilot/wp-content/themes/flatsome-child/functions.php on line 6
+[02-Nov-2018 18:38:57 UTC] PHP Parse error:  syntax error, unexpected 'print_r' (T_STRING) in /home/preet201290/public_html/wordpress/apilot/wp-content/themes/flatsome-child/functions.php on line 6
